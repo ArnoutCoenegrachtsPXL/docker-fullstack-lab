@@ -1,0 +1,23 @@
+# Logs
+Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist
+
+# dotnet environment variable files
+.env
+.env.*
+!.env.example
+
+# Vite cache
+.cache
+.vite
